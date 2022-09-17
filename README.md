@@ -6,7 +6,7 @@
 I'm a Programmer
 
 
-## Other Common Github Profile Sections
+## Other 
 👩‍💻 I'm currently working on Zero+ (a programming language)
 
 📫 How to reach me: Discord: Organon#4210
