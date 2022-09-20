@@ -7,7 +7,7 @@ I'm a Programmer
 
 
 ## Other 
-👩‍💻 I'm currently working on Zero+ (a programming language)
+👩‍💻 I'm currently working on projecs
 
 📫 How to reach me: Discord: Organon#4210
 
