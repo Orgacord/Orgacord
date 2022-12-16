@@ -7,7 +7,7 @@ I'm a Programmer
 
 
 ## Other 
-👩‍💻 I'm currently working on projecs
+👩‍💻 I'm currently working on projects
 
 📫 How to reach me: Discord: Organon#4210
 
