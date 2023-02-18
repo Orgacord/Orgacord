@@ -7,7 +7,7 @@ I'm a Programmer
 
 
 ## Other 
-👩‍💻 I'm currently working on projects
+👩‍💻 I'm currently working on Zero Plus, Vision Of A Creature, Orgacord Game Engine and SparkXOS
 
 📫 How to reach me: Discord: Organon#4210
 
