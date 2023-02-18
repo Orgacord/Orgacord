@@ -3,17 +3,17 @@
 
 
 ## 🚀 About Me
-I'm a Programmer
+I'm a Programmer and Artist
 
 
 ## Other 
-👩‍💻 I'm currently working on Zero Plus, Vision Of A Creature, Orgacord Game Engine and SparkXOS
+👩‍💻 I'm currently working on Zero Plus, Orgacord Game Engine, SparkXOS and The Watcher
 
 📫 How to reach me: Discord: Organon#4210
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, C and C++, Python and more
+Javascript, HTML, CSS, C and C++, Python, SQL, Zero Plus, Blueprint and more
 
 
 <!---
