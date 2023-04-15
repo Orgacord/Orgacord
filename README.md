@@ -3,8 +3,6 @@
 
 I am an experienced programmer with a solid knowledge in software development and security. I have extensive experience in developing software and applications for various industries and platforms.
 
-👩‍💻 I'm currently working on [Zeroplus](https://github.com/Orgacord/Zero-Plus), [SparkXOS](https://github.com/Orgacord/SparkXOS) and [The Watcher](https://github.com/Orgacord/The-Watcher)
-
 ## 🛠 Skills
   -Experience in developing applications and software for various platforms and industries
 
@@ -17,11 +15,18 @@ I am an experienced programmer with a solid knowledge in software development an
   -Knowledge in the area of penetration testing and vulnerability assessment
 
   -Ability to collaborate with other developers and security experts to develop security-critical systems.
+  
+## 👩‍💻 I'm currently working on
+[Zeroplus](https://github.com/Orgacord/Zero-Plus)
+
+[SparkXOS](https://github.com/Orgacord/SparkXOS) 
+
+[The Watcher](https://github.com/Orgacord/The-Watcher)
 
 ## 📫 How to reach me:
--Discord Organon#4210
+-Discord: Organon#4210
 
--Twitter [@orgacord](https://twitter.com/orgacord)
+-Twitter: [Orgacord](https://twitter.com/orgacord)
 
 <!---
 Orgacord/Orgacord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
