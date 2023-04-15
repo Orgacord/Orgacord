@@ -17,11 +17,11 @@ I am an experienced programmer with a solid knowledge in software development an
   -Ability to collaborate with other developers and security experts to develop security-critical systems.
   
 ## 👩‍💻 I'm currently working on
-[Zeroplus](https://github.com/Orgacord/Zero-Plus)
+-[Zeroplus](https://github.com/Orgacord/Zero-Plus)
 
-[SparkXOS](https://github.com/Orgacord/SparkXOS) 
+-[SparkXOS](https://github.com/Orgacord/SparkXOS) 
 
-[The Watcher](https://github.com/Orgacord/The-Watcher)
+-[The Watcher](https://github.com/Orgacord/The-Watcher)
 
 ## 📫 How to reach me:
 -Discord: Organon#4210
