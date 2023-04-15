@@ -6,12 +6,12 @@ I am an experienced programmer with a solid knowledge in software development an
 👩‍💻 I'm currently working on [Zeroplus](https://github.com/Orgacord/Zero-Plus), [SparkXOS](https://github.com/Orgacord/SparkXOS) and [The Watcher](https://github.com/Orgacord/The-Watcher)
 
 ## 🛠 Skills
->Experience in developing applications and software for various platforms and industries
->Knowledge in various programming languages such as Java, C++, Python, and ZeroPlus
->Experience in working with various frameworks and libraries such as Spring, Hibernate, and Django
->Expertise in developing secure applications and implementing security protocols and encryption technologies
->Knowledge in the area of penetration testing and vulnerability assessment
->Ability to collaborate with other developers and security experts to develop security-critical systems.
+°Experience in developing applications and software for various platforms and industries
+°Knowledge in various programming languages such as Java, C++, Python, and ZeroPlus
+°Experience in working with various frameworks and libraries such as Spring, Hibernate, and Django
+°Expertise in developing secure applications and implementing security protocols and encryption technologies
+°Knowledge in the area of penetration testing and vulnerability assessment
+°Ability to collaborate with other developers and security experts to develop security-critical systems.
 
 📫 How to reach me: 
 >Discord: Organon#4210
