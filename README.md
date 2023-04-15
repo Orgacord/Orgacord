@@ -21,7 +21,7 @@ I am an experienced programmer with a solid knowledge in software development an
 ## 📫 How to reach me:
 -Discord Organon#4210
 
--Twitter @orgacord
+-Twitter [@orgacord](https://twitter.com/orgacord)
 
 <!---
 Orgacord/Orgacord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
