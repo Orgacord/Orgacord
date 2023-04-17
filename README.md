@@ -19,7 +19,7 @@ I am an experienced programmer with a solid knowledge in software development an
 ## 👩‍💻 I'm currently working on
 -[Zeroplus](https://github.com/Orgacord/Zero-Plus)
 
--[ProtowareAI]([https://github.com/Orgacord/ProtowareAI]) 
+-[ProtowareAI](https://github.com/Orgacord/ProtowareAI) 
 
 
 ## 📫 How to reach me:
