@@ -8,8 +8,6 @@
 
   -Knowledge in the area of penetration testing and vulnerability assessment
 
-  -Ability to collaborate with other developers and security experts to develop security-critical systems.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/orgacord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orgacord" height="30" width="40" /></a>
