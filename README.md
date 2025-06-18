@@ -4,9 +4,9 @@
 <h2> About Me </h2>
   -Experience in developing applications and software for various platforms and industries
 
-  -Expertise in developing secure applications and implementing security protocols and encryption technologies
+  -Skilled in building secure applications with a strong focus on implementing security protocols and encryption technologies
 
-  -Knowledge in the area of penetration testing and vulnerability assessment
+  -Passionate about cybersecurity and ethical hacking
 
 ## Silly Github Profile Widgets
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=orgacord&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
